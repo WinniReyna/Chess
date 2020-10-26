@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507133696 source:c:\users\stark\documents\winni\uniat\programacion1_semestre1\ajedrez_2\ajedrez_2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
